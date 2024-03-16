@@ -98,7 +98,7 @@
                             <td><img src='".$shoeImage."' alt='.$shoeImage.'></td>
                             <td>".$category."</td>
                             <td>".$gender."</td>
-                            <td>Php ".$price."</td>
+                            <td>Php sdf".$price."</td>
                             <td>".$color."</td>
                             <td>".$quantity."</td>
                             <td>
