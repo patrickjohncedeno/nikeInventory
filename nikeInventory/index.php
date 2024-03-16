@@ -42,7 +42,7 @@
 
     <div class="dashboard">
         <div class="shoe-category men" value="Men">
-            <h2>Men Shoes</h2>
+            <h2>Men </h2>
         </div>
         <div class="shoe-category women" value="Women">
             <h2>Women Shoes</h2>
@@ -98,7 +98,7 @@
                             <td><img src='".$shoeImage."' alt='.$shoeImage.'></td>
                             <td>".$category."</td>
                             <td>".$gender."</td>
-                            <td>Php sdf".$price."</td>
+                            <td>Php ".$price."</td>
                             <td>".$color."</td>
                             <td>".$quantity."</td>
                             <td>
