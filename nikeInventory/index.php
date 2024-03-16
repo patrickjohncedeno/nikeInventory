@@ -42,7 +42,7 @@
 
     <div class="dashboard">
         <div class="shoe-category men" value="Men">
-            <h2>Men </h2>
+            <h2>Men Shoes</h2>
         </div>
         <div class="shoe-category women" value="Women">
             <h2>Women Shoes</h2>
